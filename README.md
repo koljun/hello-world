@@ -1,2 +1,3 @@
 # hello-world
 Lab 1 provides a brief introduction to three ways the Git source control system can be used...
+*Nick Voroninskiy* __COS420 Spring 2017__ Lab1
